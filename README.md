@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">- 🔭 I'm a Back-end Software Developer at MM Tecnologia, specializing in Systems Analysis and Development.<br><br>- 📚 I am currently in my final year of college studying Software Engineering.</p>
+<p align="center">- I'm a Software Engineer, specializing in Systems Analysis and Development.</p>
 
 ###
 
