@@ -66,3 +66,6 @@
 </div>
 
 ###
+
+*Thanks for visiting! Feel free to explore my projects and see what I'm currently building.*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagofddias&label=Profile%20views&color=0e75b6&style=flat" alt="thiagofddias" /> </p>
